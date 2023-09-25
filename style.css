@@ -1,5 +1,11 @@
 /* Add style to the universal selector */
 
+* {}
+
 /* Add style to class selector */
 
+.flex-container {}
+
 /* Add style to chaining selector */
+
+.flex-item.one {}
