@@ -9,7 +9,11 @@
 
 /* Add style to class selector */
 
-.flex-container {}
+.flex-container {
+    border: 2px solid darkgoldenrod;
+    display: flex;
+    background-color: black;
+}
 
 /* Add style to chaining selector */
 
