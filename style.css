@@ -16,7 +16,7 @@
 
 /* Add style to chaining selector */
 
-.flex-item.one {
+.flex-item.first {
     background-color: yellow;
 }
 
@@ -31,6 +31,6 @@
 
 /* Add style to the chaining selector */
 
-.flex-item.two {
+.flex-item.second {
     background-color:red
 }
