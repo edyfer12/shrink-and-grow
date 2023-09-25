@@ -12,5 +12,8 @@
 
 /* Add style to the class selector */
 
+.flex-item {}
 
 /* Add style to the chaining selector */
+
+.flex-item.two {}
