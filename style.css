@@ -10,7 +10,7 @@
 /* Add style to class selector */
 
 .flex-container {
-    border: 2px solid darkgoldenrod;
+    border: 2px solid purple;
     display: flex;
     background-color: black;
 }
@@ -21,7 +21,13 @@
 
 /* Add style to the class selector */
 
-.flex-item {}
+.flex-item {
+    color: white;
+    border: 1px solid white;
+    margin: 10px 0;
+    height: 100px;
+    width: 100px;
+}
 
 /* Add style to the chaining selector */
 
